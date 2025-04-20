@@ -33,7 +33,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 ```
-Developed by: INESH N
+Developed by: INESH n
 RegisterNumber:212223220036
 
 module combinationalcircuit(A,B,C,D,F1);
